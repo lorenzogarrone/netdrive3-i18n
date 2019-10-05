@@ -37,7 +37,7 @@ msgstr "OPZIONI"
 #: ../../NetDriveUI/adddrive.ui:146
 msgctxt "AddDrive|"
 msgid "Save authentication information"
-msgstr "Salva informazioni autentificazione"
+msgstr "Salva informazioni autenticazione"
 
 #: ../../NetDriveUI/adddrive.ui:185
 msgctxt "AddDrive|"
@@ -1473,4 +1473,4 @@ msgstr "Salvataggio fallito."
 #: ../../../ui_helper/oauth2/waiter.ui:14
 msgctxt "Waiter|"
 msgid "Wait for authentication"
-msgstr "Attesa autentificazione"
+msgstr "Attesa autenticazione"
